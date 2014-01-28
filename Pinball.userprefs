@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Manager.cs">
+    <Files>
+      <File FileName="../../../Downloads/OSX/ProjectFiles/Assets/Scripts/Leap/VolumeController.cs" Line="14" Column="3" />
+      <File FileName="Assets/Scripts/Manager.cs" Line="54" Column="43" />
+      <File FileName="Assets/Scripts/Floor.cs" Line="23" Column="7" />
+      <File FileName="Assets/Scripts/Plunger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Bumper.cs" Line="38" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
